@@ -1,4 +1,4 @@
-👋 **Luke Corwin**
+# 👋 **Luke Corwin**
 
 💻 Computer Engineering student focused on understanding how computers and software systems work from the ground up. I enjoy building practical projects that improve my programming skills while learning core computer science concepts.
 
@@ -29,6 +29,7 @@ Experiments and tools built while learning
 Work related to my coursework and independent study
 
 📬 **Contact**
+
 Any of my social links
 
 📧 Email: lukec722@icloud.com
