@@ -1,16 +1,17 @@
-## Hi there 👋
+Computer engineering student focused on learning how computers and software systems work from the ground up.
 
-<!--
-**Luke-Corwin/Luke-Corwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Current Focus
 
-Here are some ideas to get you started:
+Computer Engineering degree
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Systems and programming projects
+
+Building real-world software and tools
+
+Tools
+
+Python • Java • Git • GitHub • VS Code
+
+Contact
+
+Email: lukec722@icloud.com
