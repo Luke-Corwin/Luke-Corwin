@@ -1,17 +1,34 @@
-Computer engineering student focused on learning how computers and software systems work from the ground up.
+👋 **Luke Corwin**
 
-Current Focus
+💻 Computer Engineering student focused on understanding how computers and software systems work from the ground up. I enjoy building practical projects that improve my programming skills while learning core computer science concepts.
 
-Computer Engineering degree
+🎓 **Current Focus**
 
-Systems and programming projects
+Pursuing a Computer Engineering degree
 
-Building real-world software and tools
+Building programming and systems related projects
 
-Tools
+Developing practical coding skills through real world work and experimentation
 
-Python • Java • Git • GitHub • VS Code
+🛠 **Skills & Tools**
 
-Contact
+Languages: Python, Java
 
-Email: lukec722@icloud.com
+Development: Git, GitHub, VS Code
+
+Creative Tools: Adobe Photoshop, CapCut
+
+Interests: systems programming, compilers, software development, and building useful applications
+
+📂 **What You'll Find Here**
+
+Programming and engineering projects
+
+Experiments and tools built while learning
+
+Work related to my coursework and independent study
+
+📬 **Contact**
+Any of my social links
+
+📧 Email: lukec722@icloud.com
