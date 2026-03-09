@@ -1,8 +1,8 @@
-#### 👋 **Luke Corwin**
+### 👋 **Luke Corwin**
 
 💻 Computer Engineering student focused on understanding how computers and software systems work from the ground up. I enjoy building practical projects that improve my programming skills while learning core computer science concepts.
 
-##### 🎓 **Current Focus**
+#### 🎓 **Current Focus**
 
 Pursuing a Computer Engineering degree
 
