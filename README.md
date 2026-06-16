@@ -1,32 +1,32 @@
 ### 👋 **Luke Corwin**
 
-💻 Computer Engineering student focused on understanding how computers and software systems work from the ground up. I enjoy building practical projects that improve my programming skills while learning core computer science concepts.
+💻 Computer Engineering student focused on embedded systems, firmware development, and understanding how computers work from the hardware level up. I enjoy building practical projects that combine electronics and software while developing strong programming and engineering skills.
 
 #### 🎓 **Current Focus**
 
 Pursuing a Computer Engineering degree
 
-Building programming and systems related projects
+Building embedded systems, firmware, and IoT projects
 
-Developing practical coding skills through real world work and experimentation
+Developing practical engineering skills through hands-on projects and experimentation
 
 #### 🛠 **Skills & Tools**
 
-Languages: Python, Java
+Languages: Embedded C++, Python, Java
 
-Development: Git, GitHub, VS Code
+Hardware & Embedded: ESP32, Arduino, I2C communication, OLED displays, sensors, breadboarding, and circuit design
 
-Creative Tools: Adobe Photoshop, CapCut
+Development: Git, GitHub, VS Code, Arduino IDE
 
-Interests: systems programming, compilers, software development, and building useful applications
+Interests: Embedded systems, firmware development, hardware security, computer architecture, IoT, and low-level programming
 
 #### 📂 **What You'll Find Here**
 
-Programming and engineering projects
+Embedded systems and firmware projects
 
-Experiments and tools built while learning
+Hardware-software experiments and tools built while learning
 
-Work related to my coursework and independent study
+Practical applications focused on computer engineering concepts
 
 #### 📬 **Contact**
 
