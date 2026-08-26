@@ -12,7 +12,7 @@ Developing practical engineering skills through hands-on projects and experiment
 
 #### 🛠 **Skills & Tools**
 
-Languages: Embedded C++, Python, Java
+Languages: Embedded C++, Python, Rust
 
 Hardware & Embedded: ESP32, Arduino, I2C communication, OLED displays, sensors, breadboarding, and circuit design
 
